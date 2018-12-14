@@ -47,7 +47,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m Ahmed Salem, a Senior UX Developer with five years of
+          I&apos;m Ahmed Salem, a Back-end Web Developer with five years of
           industry experience, specializing in developing React apps with the
           best UX users can get.
         </p>
